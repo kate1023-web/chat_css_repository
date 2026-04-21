@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9.09 17.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #48b5aa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .81px;
+      }
+
+      .cls-2 {
+        fill: #5a91db;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+        opacity: .3;
+      }
+
+      .cls-8 {
+        fill: url(#_무제_그라디언트_23);
+      }
+
+      .cls-9 {
+        fill: url(#_무제_그라디언트_50);
+      }
+
+      .cls-10 {
+        fill: url(#_무제_그라디언트_13);
+      }
+
+      .cls-11 {
+        fill: url(#_무제_그라디언트_32);
+      }
+
+      .cls-12 {
+        fill: url(#_무제_그라디언트_58);
+      }
+
+      .cls-3 {
+        fill: #b6ccf2;
+      }
+
+      .cls-4 {
+        fill: #8dc8e0;
+      }
+
+      .cls-5 {
+        fill: #406db5;
+      }
+
+      .cls-6 {
+        fill: #a8c9ef;
+      }
+
+      .cls-7 {
+        fill: #9bb8ea;
+      }
+
+      .cls-13 {
+        fill: url(#_무제_그라디언트_41);
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_13" data-name="무제 그라디언트 13" x1="-15.68" y1="334.84" x2="-15.68" y2="353.32" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a5f9e"/>
+      <stop offset="1" stop-color="#1974d8"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_23" data-name="무제 그라디언트 23" x1="-15.14" y1="346.68" x2="-12.89" y2="348.99" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0fcff"/>
+      <stop offset="1" stop-color="#9eefef"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_32" data-name="무제 그라디언트 32" x1="-20.15" y1="344.21" x2="-14.44" y2="336.06" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4c6ac1"/>
+      <stop offset="1" stop-color="#7899dd"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_41" data-name="무제 그라디언트 41" x1="-14.84" y1="341.24" x2="-12.64" y2="338.88" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4bb4ff"/>
+      <stop offset="1" stop-color="#78c3e7"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_50" data-name="무제 그라디언트 50" x1="-20.4" y1="344.07" x2="-14.39" y2="351.81" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#739ddf"/>
+      <stop offset="1" stop-color="#6ea5e5"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_58" data-name="무제 그라디언트 58" x1="-15.68" y1="339.26" x2="-15.68" y2="348.9" gradientTransform="translate(145.9 322.69) rotate(-21.62) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f95d1"/>
+      <stop offset="1" stop-color="#91bbed"/>
+    </linearGradient>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <g>
+        <path class="cls-1" d="M0,10.14L1.06.14c.02-.15.12-.19.23-.09l7.62,6.56c.11.1.19.29.17.44l-1.06,10c-.02.15-.12.19-.23.09L.18,10.58c-.11-.1-.19-.29-.17-.44Z"/>
+        <polygon class="cls-1" points="8.88 6.88 6.9 7.66 2.77 4.11 1.27 .33 8.88 6.88"/>
+        <polygon class="cls-1" points="6.32 13.07 7.82 16.86 .21 10.31 2.2 9.53 6.32 13.07"/>
+        <polygon class="cls-1" points="8.88 6.88 7.82 16.86 6.32 13.07 6.9 7.66 8.88 6.88"/>
+        <polygon class="cls-1" points="1.27 .33 2.77 4.11 2.2 9.53 .21 10.31 1.27 .33"/>
+        <polygon class="cls-1" points="6.32 13.07 2.2 9.53 .21 10.31 2.24 9.83 4.38 11.53 6.14 13.15 7.82 16.86 6.32 13.07 6.31 13.07 6.32 13.07"/>
+        <polygon class="cls-1" points="2.77 4.11 2.2 9.53 .21 10.31 2.02 9.27 2.42 6.57 2.59 4.19 1.27 .33 2.77 4.11 2.77 4.13 2.77 4.11"/>
+        <polygon class="cls-1" points="6.32 13.07 6.9 7.66 8.88 6.88 7.07 7.92 6.68 10.62 6.5 13 7.82 16.86 6.32 13.07 6.32 13.06 6.32 13.07"/>
+        <polygon class="cls-1" points="2.77 4.11 6.9 7.66 8.88 6.88 6.85 7.36 4.72 5.66 2.95 4.04 1.27 .33 2.77 4.11 2.78 4.12 2.77 4.11"/>
+        <polygon class="cls-1" points="6.9 7.66 6.32 13.07 5.55 12.41 2.49 9.78 2.2 9.53 2.77 4.11 3.48 4.73 5.64 6.58 6.9 7.66"/>
+        <polygon class="cls-1" points="2.92 4.49 6.9 7.66 2.77 4.11 2.2 9.53 2.92 4.49"/>
+        <polygon class="cls-1" points="5.64 6.58 5.55 12.41 2.49 9.78 3.48 4.73 5.64 6.58"/>
+      </g>
+      <g>
+        <path class="cls-10" d="M0,10.14L1.06.14c.02-.15.12-.19.23-.09l7.62,6.56c.11.1.19.29.17.44l-1.06,10c-.02.15-.12.19-.23.09L.18,10.58c-.11-.1-.19-.29-.17-.44Z"/>
+        <polygon class="cls-8" points="8.88 6.88 6.9 7.66 2.77 4.11 1.27 .33 8.88 6.88"/>
+        <polygon class="cls-11" points="6.32 13.07 7.82 16.86 .21 10.31 2.2 9.53 6.32 13.07"/>
+        <polygon class="cls-13" points="8.88 6.88 7.82 16.86 6.32 13.07 6.9 7.66 8.88 6.88"/>
+        <polygon class="cls-9" points="1.27 .33 2.77 4.11 2.2 9.53 .21 10.31 1.27 .33"/>
+        <polygon class="cls-7" points="6.32 13.07 2.2 9.53 .21 10.31 2.24 9.83 4.38 11.53 6.14 13.15 7.82 16.86 6.32 13.07 6.31 13.07 6.32 13.07"/>
+        <polygon class="cls-6" points="2.77 4.11 2.2 9.53 .21 10.31 2.02 9.27 2.42 6.57 2.59 4.19 1.27 .33 2.77 4.11 2.77 4.13 2.77 4.11"/>
+        <polygon class="cls-5" points="6.32 13.07 6.9 7.66 8.88 6.88 7.07 7.92 6.68 10.62 6.5 13 7.82 16.86 6.32 13.07 6.32 13.06 6.32 13.07"/>
+        <polygon class="cls-4" points="2.77 4.11 6.9 7.66 8.88 6.88 6.85 7.36 4.72 5.66 2.95 4.04 1.27 .33 2.77 4.11 2.78 4.12 2.77 4.11"/>
+        <polygon class="cls-12" points="6.9 7.66 6.32 13.07 5.55 12.41 2.49 9.78 2.2 9.53 2.77 4.11 3.48 4.73 5.64 6.58 6.9 7.66"/>
+        <polygon class="cls-2" points="2.92 4.49 6.9 7.66 2.77 4.11 2.2 9.53 2.92 4.49"/>
+        <polygon class="cls-3" points="5.64 6.58 5.55 12.41 2.49 9.78 3.48 4.73 5.64 6.58"/>
+      </g>
+    </g>
+  </g>
+</svg>
