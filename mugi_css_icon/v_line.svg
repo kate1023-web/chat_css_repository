@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.69 83.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3c665b;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="CSS">
+    <g id="css_원본" data-name="css 원본">
+      <g>
+        <line class="cls-1" x1="84.16" y1=".18" x2="124.52" y2="40.21"/>
+        <path class="cls-1" d="M.08,83.15c41.48-14.31,82.96-28.63,124.44-42.94"/>
+      </g>
+    </g>
+  </g>
+</svg>
